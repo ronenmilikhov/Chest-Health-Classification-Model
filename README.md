@@ -1,7 +1,7 @@
 # Chest Health Classification: COVID-19 & Pneumonia Detection 🫁
 
 **Composers:** Ronen Milikhov & Shachar Wilk  
-**Institution:** Ruppin Academic Center (Class of 2026)  
+**Institution:** Ruppin Academic Center
 **Domain:** Medical Image Processing & Deep Learning  
 
 ## Project Overview
