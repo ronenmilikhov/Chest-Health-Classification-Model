@@ -2,7 +2,7 @@
 
 **Composers:** Ronen Milikhov & Shachar Wilk  
 **Institution:** Ruppin Academic Center
-**Domain:** Medical Image Processing & Deep Learning  
+**Course** Medical Image Processing & Deep Learning  
 
 ## Project Overview
 This project focuses on developing a deep learning tool to assist medical professionals in the rapid screening of chest X-rays. Due to the heavy diagnostic load on healthcare systems, especially during pandemics, our AI-based system performs initial triage to detect urgent respiratory conditions.
