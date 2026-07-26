@@ -1,8 +1,10 @@
 # Chest Health Classification: COVID-19 & Pneumonia Detection 🫁
 
-**Composers:** Ronen Milikhov & Shachar Wilk  
+## Composers
+* **Ronen Milikhov**
+* **Shachar Wilk**
 * Institution: Ruppin Academic Center
-* Course: Medical Image Processing & Deep Learning  
+* Course: Medical Images Processing & Deep Learning
 
 ## Project Overview
 This project focuses on developing a deep learning tool to assist medical professionals in the rapid screening of chest X-rays. Due to the heavy diagnostic load on healthcare systems, especially during pandemics, our AI-based system performs initial triage to detect urgent respiratory conditions.
