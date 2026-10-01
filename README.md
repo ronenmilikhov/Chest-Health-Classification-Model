@@ -7,7 +7,7 @@
 * Course: Medical Images Processing & Deep Learning
 
 ## Project Overview
-This project develops a convolutional neural network (CNN) for classifying chest X-ray images into four categories. It is an educational project and is not a clinically validated diagnostic system.
+This project develops a convolutional neural network (CNN) for classifying chest X-ray images into four categories.
 
 The model classifies images into:
 1. **COVID-19**
